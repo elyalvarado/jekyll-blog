@@ -1,36 +1,57 @@
 ---
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+weight: 1
+description: "Nomadas de la nueva era digital, ciudadanos del mundo, ávidos de conocer otras cultura"
+header-img: 'img/A65V45DVLP.jpg'
+locations:
+  - Caracas
 ---
+<div class="row widgets">
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
+  {% assign post = site.posts.first %}
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
+    <div class="title">Último Artículo</div>
+    <div class="last-post"
+      style="background-image: url('{{ site.baseurl }}/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-title">{{ post.title }}</div>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
+          <div class="post-subtitle">{{ post.subtitle }}</div>
         {% endif %}
+        <hr class="small" />
+        <div class="post-author">by {{ post.author }} on {{ post.date }}</div>
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
+    <div class="title">Dónde Estamos?</div>
+    {% include map_point.html location=page.locations.first %}
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
+    <div class="title">Nuestro Camino</div>
+    {% include map_path.html locations=page.locations %}
+  </div>
 </div>
-<hr>
-{% endfor %}
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+<div class="row widgets">
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
+    <div class="title">Tweets by @{{ site.twitter_username }}</div>
+    <a class="twitter-timeline"  href="https://twitter.com/{{ site.twitter_username }}" data-widget-id="684767327888523264">Tweets by @{{ site.twitter_username }}</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 widget" style="max-height: 222px;">
+    <div class="title">Publicidad</div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- frontpage widget -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-7260790534512939"
+         data-ad-slot="8106763009"
+         data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>

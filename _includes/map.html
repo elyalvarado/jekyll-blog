@@ -1,0 +1,18 @@
+<!-- using http://staticmapmaker.com/google/ -->
+{% assign locations = include.locations %}
+{% assign location = locations.first %}
+{% assign zoom = include.zoom | default: 4 %}
+{% assign maptype = include.maptype | default: 'point' %}
+{% case maptype %}
+  {% when 'path' }
+  <h2>Mierda {{ maptype }}</h2>
+  <img width="295" src="https://maps.googleapis.com/maps/api/staticmap?path=color:0x0000ff%7Cweight:5%7C{{ locations.join '%7C' }}&size=295x200" alt="Google Map">
+
+  {% when 'point' %}
+  <h2>puta {{ maptype }}</h2>
+  <img width="295" src="http://maps.googleapis.com/maps/api/staticmap?center={{ location }}&zoom={{ zoom }}&scale=false&size=295x200&maptype=roadmap&format=png&visual_refresh=true&markers=size:small%7Ccolor:0xff0000%7Clabel:0%7C{{ location }}" alt="Google Map of {{ location }}">
+
+  {% else %}
+  <h2>cono {{ maptype }}</h2>
+
+{% endcase %}

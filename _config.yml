@@ -1,13 +1,14 @@
 # Site settings
-title: Clean Blog
+title: Nomadas
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: nomadas.ve@gmail.com
+description: "Nomadas de la nueva era digital, ciudadanos del mundo, ávidos de conocer otras cultura"
 baseurl: ""
 url: "http://nomadas.com.ve"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: NomadasVe
+github_username:  elyalvarado
+facebook_username:  NomadasVe
+askfm_username: NomadasVe
 
 # Build settings
 markdown: kramdown
@@ -15,5 +16,5 @@ highlighter: pygments
 permalink: pretty
 gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/blog/:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

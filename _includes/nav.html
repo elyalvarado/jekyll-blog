@@ -10,6 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,11 +19,44 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
+                {% assign pages = site.pages | sort:"weight"  %}
+                {% for page in pages %}
+                  {% assign node_url_parts = page.url | split: '/' %}
+                  {% assign node_url_parts_size = node_url_parts | size %}
+                  {% assign filename = node_url_parts | last %}
+                  {% if page.title %}
+                  {% unless node_url_parts_size  > 2 and filename != 'index.html' %}
+                    <li>
+                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    </li>
+                  {% endunless %}
+                  {% endif %}
+                {% endfor %}
+
+                  {% if site.twitter_username %}
+                  <li>
+                      <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" >
+                          <i class="fa fa-twitter"></i> Twitter
+                      </a>
+                  </li>
+                  {% endif %}
+
+                  {% if site.facebook_username %}
+                  <li>
+                      <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" >
+                          <i class="fa fa-facebook"></i> Facebook
+                      </a>
+                  </li>
+                  {% endif %}
+
+                  <li>
+                      <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+                          <i class="fa fa-rss"></i> RSS
+                      </a>
+                  </li>
+
                 <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->

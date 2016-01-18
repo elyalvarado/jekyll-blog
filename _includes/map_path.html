@@ -1,0 +1,4 @@
+<!-- using http://staticmapmaker.com/google/ -->
+{% assign locations = include.locations %}
+{% assign zoom = include.zoom | default: 4 %}
+<img width="295" src="https://maps.googleapis.com/maps/api/staticmap?path=color:0x0000ff%7Cweight:5%7C{{ locations | join: '%7C' }}&size=295x200" alt="Google Map">
