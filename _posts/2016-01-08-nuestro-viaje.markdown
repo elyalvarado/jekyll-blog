@@ -2,7 +2,7 @@
 layout:     post
 title:      "Nuestro viaje"
 subtitle:   "Alrededor del mundo en 365 dias"
-date:       2016-01-08 22:40:00
+date:       "2016-01-08 12:40:00 -0430"
 author:     "Ely Alvarado"
 location:   "Caracas"
 header-img: "img/XH9761OM6J.jpg"

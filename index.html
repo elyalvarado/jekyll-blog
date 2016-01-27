@@ -2,9 +2,10 @@
 layout: page
 weight: 1
 description: "Nomadas de la nueva era digital, ciudadanos del mundo, ávidos de conocer otras cultura"
-header-img: 'img/A65V45DVLP.jpg'
+header-img: 'img/vietnam.jpeg'
 locations:
-  - Caracas
+  - Hanoi
+  - Hong Kong
 ---
 <div class="row widgets">
 
@@ -35,21 +36,30 @@ locations:
 
 <div class="row widgets">
   <div class="col-xs-12 col-sm-6 col-md-4 widget">
+    <div class="title">Artículos Anteriores</div>
+      <ul class="posts">
+        {% for post in site.posts limit:5 offset:1 %}
+        <li>
+        <span>{{ post.date | date_to_string }}</span> &raquo;
+        <a href="{{ BASE_PATH }}{{ post.url }}">
+          {{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 widget">
     <div class="title">Tweets by @{{ site.twitter_username }}</div>
     <a class="twitter-timeline"  href="https://twitter.com/{{ site.twitter_username }}" data-widget-id="684767327888523264">Tweets by @{{ site.twitter_username }}</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 widget">
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 widget" style="max-height: 222px;">
+  <div class="col-xs-12 col-sm-6 col-md-4 widget" style="max-height: 278px; height: 278px;">
     <div class="title">Publicidad</div>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- frontpage widget -->
     <ins class="adsbygoogle"
-         style="display:block"
+         style="display:inline-block;width:300px;height:250px"
          data-ad-client="ca-pub-7260790534512939"
-         data-ad-slot="8106763009"
-         data-ad-format="auto"></ins>
+         data-ad-slot="8128502204"></ins>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
