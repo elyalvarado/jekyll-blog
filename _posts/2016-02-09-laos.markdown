@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "Laos"
+subtitle:   "Luang Prabang y Luang Namtha"
+date:       "2016-02-09 09:00:00 +0700"
+author:     "Gabriela Niño"
+location:   "Luang Namtha"
+header-img: "img/templo-literatura.jpg"
+---
+Prueba
