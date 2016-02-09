@@ -439,3 +439,13 @@ body {
 .row.widgets + .row.widgets {
   padding-top: 20px;
 }
+
+article p img[alt^="L:"] {
+  float: left;
+  padding-right: 5px;
+}
+
+article p img[alt^="R:"] {
+  float: right;
+  padding-left: 5px;
+}
