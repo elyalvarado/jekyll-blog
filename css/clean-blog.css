@@ -142,6 +142,8 @@ hr.small {
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 50px;
+  height:100vh;
+  width:100vw;
 }
 .intro-header.blog-post {
   background-attachment: fixed;
