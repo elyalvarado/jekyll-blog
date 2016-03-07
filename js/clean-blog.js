@@ -1056,3 +1056,15 @@ jQuery(document).ready(function($) {
             });
     }
 });
+
+// Highlight list-group-items on hover
+$(function() {
+  $(".list-group .list-group-item").hover(
+      function() {
+        $(this).addClass("active");
+      },
+      function() {
+        $(this).removeClass("active");
+      }
+    );
+});

@@ -47,15 +47,12 @@ locations:
 <div class="row widgets">
   <div class="col-xs-12 col-sm-6 col-md-4 widget">
     <div class="title">Artículos Anteriores</div>
-      <ul class="posts">
+      <div class="list-group">
         {% for post in site.posts limit:5 offset:1 %}
-        <li>
-        <span>{{ post.date | date_to_string }}</span> &raquo;
-        <a href="{{ BASE_PATH }}{{ post.url }}">
-          {{ post.title }}</a>
-        </li>
+        <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
+  {{ post.title }}<br><span>{{ post.date | date_to_string}}</span></a>
         {% endfor %}
-      </ul>
+      </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 widget">
     <div class="title">Tweets by @{{ site.twitter_username }}</div>
