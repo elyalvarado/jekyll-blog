@@ -466,4 +466,11 @@ article p img[alt^="R:"] {
   color: lightgray;
 }
 
+.list-group {
+  font-size:0.8em;
+}
 
+.date{
+  font-size:0.6em;
+
+}

@@ -69,16 +69,12 @@ layout: default
             <div class="col-lg-3 col-md-3">
               <p>{% include map_point.html location=page.location %}</p>
 
-              <ul class="posts">
-                {% for post in site.posts limit:20 %}
-                <li>
-                <span>{{ post.date | date_to_string }}</span> &raquo;
-                <a href="{{ BASE_PATH }}{{ post.url }}">
-                  {{ post.title }}</a>
-                </li>
+              <div class="posts list-group">
+                {% for post in site.posts limit:5 %}
+                <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
+                  {{ post.title }}<br><span class="date">{{ post.date | date_to_string }}</span></a>
                 {% endfor %}
-              </ul>
-
+              </div>
               <div>
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- Blog Post Ad 1 -->
