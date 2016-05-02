@@ -5,6 +5,8 @@ subtitle:   "Una segunda oportunidad a Laos"
 date:       "2016-02-13 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Luang Namtha"
+lang:       es
+ref:        ln
 header-img: "img/paisaje.jpg"
 ---
 

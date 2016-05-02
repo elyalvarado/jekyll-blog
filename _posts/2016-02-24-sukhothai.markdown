@@ -5,6 +5,8 @@ subtitle:   "Las ruinas de la primera capital de tailandia"
 date:       "2016-02-24 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Sukhothai"
+lang:       es
+ref:        suk
 header-img: "img/parque-historico-sukhothai.jpg"
 ---
 

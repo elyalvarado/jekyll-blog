@@ -5,6 +5,8 @@ subtitle:   "Alrededor del mundo en 365 dias"
 date:       "2016-01-08 12:40:00 -0430"
 author:     "Ely Alvarado"
 location:   "Caracas"
+lang:       es
+ref:        start
 header-img: "img/XH9761OM6J.jpg"
 ---
 Faltan 7 días, y estamos ansiosos. Llevamos mas de un año preparandonos para este momento: el inicio de nuestro viaje alrededor del mundo, pero nada te prepara para la mezcla de sentimientos que se incrementa a medida que se acerca la fecha de partida. No me mal interpreten, la mayoría de los sentimientos son positivos: la ilusión de vivir los sueños, conocer nuevas culturas, hacer realidad las alternativas discutidas durante largas noches. Sin embargo es inevitable sentir un poco de temor, y ansiedad por lo que va a pasar durante todo el año.

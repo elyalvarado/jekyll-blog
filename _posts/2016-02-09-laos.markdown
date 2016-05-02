@@ -5,6 +5,8 @@ subtitle:   "Nuestro primer rayo de Sol de nuestra vuelta al mundo"
 date:       "2016-02-09 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Luang Prabang"
+lang:       es
+ref:        lp
 header-img: "img/mecondo.jpg"
 ---
 Luego de pasar 2 semanas en el frío de Hong Kong y Hanoi, estamos en nuestra tercera Parada: Luang Prabang, Laos.  Al llegar al aeropuerto realizamos el proceso de solicitud de visa, un proceso bastante sencillo y rápido de hacer no estuvimos mas de 10 minutos y eso incluía que tuvimos que llenar el formulario de solicitud. Es un aeropuerto pequeño se parece al de San Cristobal.

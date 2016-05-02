@@ -5,6 +5,8 @@ subtitle: "De manera expresa"
 date:     "2016-01-20 10:00:00 +0800"
 author:   "Ely Alvarado"
 location: "Hong Kong"
+lang:     es
+ref:      thaivisa
 header-img: "img/pasaporte.jpg"
 ---
 Una de las desventajas de viajar con un pasaporte no tan reconocido como el Venezolano, es que en muchos paises no se nos permite sacar la Visa-on-Arrival, o Visa al llegar al aeropuerto, y en su lugar el trámite se debe hacer con antelación.

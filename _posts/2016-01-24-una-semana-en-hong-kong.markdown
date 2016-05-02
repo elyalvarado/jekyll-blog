@@ -5,6 +5,8 @@ subtitle: "Venciendo el Jetlag"
 date:     2016-01-26 12:00:00 +0800"
 author:   "Ely Alvarado"
 location: "Hong Kong"
+lang:     es
+ref:      hk2
 header-img: "img/hong-kong.jpg"
 ---
 Ya previamente habíamos escrito acerca de <a href='/2016/01/18/primer-dia-en-hong-kong/'>nuestro primer día en Hong Kong</a>. Lo que no dijimos fue que ese día al acostarnos a dormir, apenás dormimos un par de horas, y a las 2 la mañana hora de HK ya estabamos despiertos sin poder conciliar nuevamente el sueño. Por más que tratabamos de convencer al cuerpo que era de noche, y sin importar que tanto tiempo pasaramos con los ojos cerrados, este se negaba a aceptar que eran horas de dormir. Yo creo que si estando en Caracas, hubiera cerrado los ojos con tanta insistencia en pleno mediodía, me hubiera quedado dormido sin ningún problema, pero en este caso no funcionaba por más que lo intentaba.

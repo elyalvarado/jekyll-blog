@@ -5,6 +5,8 @@ subtitle:   "Un lugar muy parecido a nuestro hogar"
 date:       "2016-02-19 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Chiang Mai"
+lang:       es
+ref:        cm
 header-img: "img/calle-principal.jpg"
 ---
 

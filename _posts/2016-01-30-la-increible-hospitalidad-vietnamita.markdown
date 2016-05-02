@@ -5,6 +5,8 @@ subtitle:   "Una semana en Hanoi"
 date:       "2016-01-30 09:00:00 +0700"
 author:     "Ely Alvarado"
 location:   "Hanoi"
+lang:       es
+ref:        hanoi
 header-img: "img/hanoi.jpg"
 ---
 Es nuestra segunda visita a Vietnam, y la increible hospitalidad de su gente no deja de sorprendernos. En ambos casos nos hemos hospedado con anfitriones de <a href="www.airbnb.com/c/ealvarado?s=8">AirBnB</a>, y no sé si hemos tenido suerte, pero nuestros anfitriones en ambos casos han sido increibles. No solo eso, sino que es uno de los pocos paises donde vamos caminando en la calle y la gente nos sonríe amablemente.

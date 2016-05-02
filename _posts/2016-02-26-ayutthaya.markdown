@@ -5,6 +5,8 @@ subtitle:   "La ruinas de la segunda capital de Tailandia"
 date:       "2016-02-26 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Ayutthaya"
+lang:       es
+ref:        ayu
 header-img: "img/templo-ayutthaya.jpg"
 ---
 

@@ -5,6 +5,8 @@ subtitle:   "Después de 48 horas de viaje"
 date:       "2016-01-18 09:20:00 +0800"
 author:     "Ely Alvarado"
 location:   "Hong Kong"
+lang:       es
+ref:        hk
 header-img: 'img/A65V45DVLP.jpg'
 ---
 ## La llegada

@@ -5,6 +5,8 @@ subtitle:   "2 días en Hanoi antes de partir"
 date:       "2016-02-02 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Hanoi"
+lang:       es
+ref:        hanoi2
 header-img: "img/templo-literatura.jpg"
 ---
 ![R: Pagoda de un Pilar][1] Nuestros últimos 2 días en Hanoi continuamos nuestro paseo por la ciudad. Tomamos nuevamente el autobús 9 que nos dejaba cerca de la  Pagoda de un solo pilar, en donde solo estuvimos poco tiempo. Es algo hermoso, pero pequeño que se puede ver rápidamente. Para nuestra fortuna la lluvia había parado, así que pudimos tomar las fotos sin ella. La Pagoda está ubicada en _Ba Dihn_ y cerca del Mausoleo de Ho Chi Minh y del Palacio Presidencial. 

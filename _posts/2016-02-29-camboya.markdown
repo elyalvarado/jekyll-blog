@@ -5,6 +5,8 @@ subtitle:   "Un país lleno de grandes templos contruidos por el impero Jemer"
 date:       "2016-02-29 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Ayutthaya"
+lang:       es
+ref:        angkor
 header-img: "img/ankorwat.jpg"
 ---
 

@@ -5,6 +5,8 @@ subtitle:   "El mejor sitio para comer en Luang Prabang"
 date:       "2016-02-10 09:00:00 +0700"
 author:     "Gabriela Niño"
 location:   "Luang Prabang"
+lang:       es
+ref:        kaiphaen
 header-img: "img/restaurant.jpg"
 ---
 ![L: gyosas][1] En el artículo anterior les mencioné un restarurant escuela en el que comimos y nos gustó mucho. Este post es dedicado a ese lugar: el Restaurant Escuela Khaiphaen en Luang Prabang, el mejor sitio que hemos comido en nuestra vuelta al mundo. Este restaurant es apoyado por las organizaciones Friends-International y Childsafe-international, las cuales se encargan de ayudar a aquellos niños que fueron explotados por esas mafias horrorosas que existen en este mundo. El restaurant les enseña a estos niños rescatados a trabajar en todo lo que tiene que ver con el manejo de un restaurant, desde la cocina, hasta como atender a los clientes. Estos jóvenes han sido salvados  de la prostitución, de ser obligados a vender cualquier objetos a los turistas, de pedir dinero entre otras cosas que vemos a los niños hacer para el beneficio de un tercero. Cuando viajes y veas algunas de estos escenarios no contribuyas a que esto siga sucediendo, piensa en tus hijos si los tienes, o en tu sobrinos. ![R: gyosas2][2]
