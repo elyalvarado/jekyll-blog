@@ -10,3 +10,6 @@ also: Esta página también está disponible en Español
 available_languages: Idiomas disponibles
 en: English
 es: Español
+# paginator
+newer_posts: Siguiente
+older_posts: Anterior

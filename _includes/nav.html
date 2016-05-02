@@ -38,17 +38,23 @@
                   </li>
                   {% endif %}
 
-                  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-                  {% for post in posts %}
+                  {% assign bposts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                  {% for bpost in bposts %}
                     <li>
-                      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                    <a href="{{ bpost.url }}" class="{{ bpost.lang }}">
+                      <img src="/img/{{ bpost.lang }}.png" />
+                      {{ bpost.lang }}
+                    </a>
                     </li>
                   {% endfor %}
 
-                  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' | group_by: 'lang' %}
                   {% for page in pages %}
                     <li>
-                      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                    <a href="{{ page.items[0].url }}" class="{{ page.items[0].lang }}">
+                      <img src="/img/{{ page.items[0].lang }}.png" />
+                      {{ page.items[0].lang }}
+                    </a>
                     </li>
                   {% endfor %}
 
