@@ -1,0 +1,25 @@
+en:
+  items:
+    home:
+      title: home
+      url: /en
+    blog:
+      title: blog
+      url: /en/blog
+  twitter:
+    url: https://twitter.com/NomadasVe
+  facebook:
+    url: https://www.facebook.com/NomadasVe
+
+es:
+  items:
+    home:
+      title: home
+      url: /
+    blog:
+      title: blog
+      url: /blog
+  twitter:
+    url: https://twitter.com/NomadasVe
+  facebook:
+    url: https://www.facebook.com/NomadasVe

@@ -9,28 +9,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a class="navbar-brand" href="{{ site.data.menu[page.lang].items.home.url | prepend: site.baseurl }}">{{ site.title }}</a>
 
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
-                </li>
-                {% assign pages = site.pages | sort:"weight"  %}
-                {% for page in pages %}
-                  {% assign node_url_parts = page.url | split: '/' %}
-                  {% assign node_url_parts_size = node_url_parts | size %}
-                  {% assign filename = node_url_parts | last %}
-                  {% if page.title %}
-                  {% unless node_url_parts_size  > 2 and filename != 'index.html' %}
-                    <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    </li>
-                  {% endunless %}
-                  {% endif %}
+                {% for page in site.data.menu[page.lang].items %}
+                  <li>
+                      <a href="{{ page[1].url | prepend: site.baseurl }}">{{ page[1].title }}</a>
+                  </li>
                 {% endfor %}
 
                   {% if site.twitter_username %}
@@ -49,11 +38,25 @@
                   </li>
                   {% endif %}
 
-                  <li>
+                  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                  {% for post in posts %}
+                    <li>
+                      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                    </li>
+                  {% endfor %}
+
+                  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                  {% for page in pages %}
+                    <li>
+                      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                    </li>
+                  {% endfor %}
+
+                  <!-- li>
                       <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                           <i class="fa fa-rss"></i> RSS
                       </a>
-                  </li>
+                  </li -->
 
                 <li>
                 </li>

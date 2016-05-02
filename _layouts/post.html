@@ -68,6 +68,15 @@ layout: default
             </div>
 
             <div class="col-lg-3 col-md-3">
+              <div class="alternative-languages" style="font-size: .7em">
+                {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                {% for post in posts %}
+                  {% unless post.lang == page.lang %}
+                  <a href="{{ post.url }}" class="{{ post.lang }}"><b>{{ site.data.tr[post.lang].also }}</b></a></br>
+                  {% endunless %}
+                {% endfor %}
+              </div>
+
               <p>{% include map_point.html location=page.location %}</p>
 
               <div class="posts list-group">
