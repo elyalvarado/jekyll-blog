@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Our Adventure"
+subtitle:   "Around the world in 365 days"
+date:       "2016-01-08 12:40:00 -0430"
+author:     "Ely Alvarado"
+location:   "Caracas"
+lang:       en
+ref:        start
+header-img: "img/XH9761OM6J.jpg"
+---
+There are yet 7 days to go, and we are excited. We have been preparing our round the world trip for longer than a year, but nothing prepares you for the mix of feelings that get stronger as the date comes closer. Don't misunderstand me, most of the feelings are nice: the illusion to live our dreams, know new cultures, make all the things discussed every night come true. But still, is impossible not to feel a little afraid, and anxious, about what is going to happen in our year traveling.
+
+We had the idea to travel for a full year after our first around the world trip in december 2012. That trip lasted only one month, and was an incredible experience, but we were left feeling that we needed more. A year later we repeated the experience again for one month, this time in different destinations. Again we felt that it was not enough. The more we traveled the more we wanted to do it, and the more we wanted to know. We started to discuss the idea of taking a longer break, and repeat the experience of traveling around the world but at our own pace, staying in the places we liked as much as we wanted, and not depending on a premade schedule.
+
+We gave it a lot of thought about if it was possible for us, to escape for one year, to leave the confort of our home, it wasn't easy. We are so used to our daily habits, that stepping out of them even for an small amount of time causes anxiety, it is like Stockholm Syndrome. Just thinking about traveling for one year caused us a lot of fear. However, once our initial fears were overcome, we couldn't stop counting the days to our departure.
+
+And here we are, a week away to the start of our trip, mentally checking what we have yet to prepare, and counting hours instead of days. We are sticking to our plan, there is no planned schedule. We just now what is our first destination: Hong Kong. From there who knows where the road will take us, but we would try to share our experiences with all our friends in this blog.
+
+For those that prefer to keep up to date with social networks we created facebook and twitter accounts to share our experiences, pictures and everything else:
+
+* <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" ><i class="fa fa-facebook"></i> Facebook</a>
+* <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" ><i class="fa fa-twitter"></i> Twitter</a>
+
+Feel free to share our posts with anyone you want, like them on facebook, retweet us and help us reach more people with our stories.
