@@ -42,8 +42,7 @@
                   {% for bpost in bposts %}
                     <li>
                     <a href="{{ bpost.url }}" class="{{ bpost.lang }}">
-                      <img src="/img/{{ bpost.lang }}.png" />
-                      {{ bpost.lang }}
+                      {{ bpost.lang | language_name }}
                     </a>
                     </li>
                   {% endfor %}
@@ -52,8 +51,7 @@
                   {% for page in pages %}
                     <li>
                     <a href="{{ page.items[0].url }}" class="{{ page.items[0].lang }}">
-                      <img src="/img/{{ page.items[0].lang }}.png" />
-                      {{ page.items[0].lang }}
+                      {{ page.items[0].lang | language_name }}
                     </a>
                     </li>
                   {% endfor %}
