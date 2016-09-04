@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "China: Qindao y Beijing"
+title:      "China: Qingdao y Beijing"
 subtitle:   "Nuestra segunda visita al país mas poblado del mundo"
 date:       "2016-05-03 09:00:00 +0700"
 author:     "Gabriela Niño"
@@ -8,22 +8,93 @@ location:   "China"
 header-img: "img/muralla-china.jpg"
 ---
 Esta es nuestra segunda visita a China, pensamos al principio que íbamos a estar más tiempo acá, pero luego de ver
-los precios de los tickets en tren decidimos solo tomar un tren que nos llevara a la capital, Pekín y agregar otro destino a nuestra vuelta al mundo y así tomar el avión para nuestro próximo destino, así que nuestra primera parada fue:
+los precios de los tickets en tren decidimos solo tomar un tren que nos llevara a la capital, Pekín y agregar otro 
+destino a nuestra vuelta al mundo. Nuestra primera parada fue Qingdao, al este de China y muy cerca de Corea del Sur.
 
 ##Qingdao
-Los chinos consideran esta una muy buena ciudad para vivir, es tranquila aún no tiene metro, pero se espera que para finales de este año este en funcionamiento la primera línea, aunque sin metro el servicio de transporte público es bastante bueno y muy económico, así que para nosotros no fue ningún problema tomar el trasporte publico, ya que usamos Google Maps ![L:cevezas-chinas][1] para que nos dijera cuál era el número de autobús y en cuantas paradas nos debíamos quedar según el sitio que queríamos visitar.
-Qingdao es la ciudad donde hacen la cerveza fresca, algo que les quedo de la ocupación alemana, algo que aprovecho Ely y probo de todos los tipos de cerveza que veía.
-El  museo donde te explican la historia y el proceso de elaboración,tenían dos tipos d entrada;![R: un-par-cervezas][2] una que te permitía entrar al museo y otra tomar toda la cerveza que quisieras por 2 horas, nosotros escogimos en la entrada con la cerveza, así que al terminar el tour nos caímos a cerveza, jajajaj, yo no recuerdo cuantas tome, lo que si recuerdo es que cuando salimos nos reíamos de todo, hasta de los Chinos que nos ofrecían entrar a el restaurant para comer.
-Acá también aprovechamos para probar algunos platos típicos como el hop pot, que es una sopa que haces según lo que elijas para ponerle al caldo que decidas usar, tenía varios tipos de base de caldo; a base de hongo, tomate o de res, conseguimos este restaurante en la Tripadvisor, era uno de los mejores en esa ciudad y lo mejor de todos es que estaba muy cerca de donde nos quedamos, decididos ir un sábado como para la hora del almuerzo, cuando llegamos 
-éramos el número 300 y ya iban por el 180, lo bueno era que ellos tenían unas mesas afuera y te daban una jarra con un refresco de ellos y cosas para picar, como tomate Cherry, pepino y maní, cuando nos dieron la mesa, teníamos que escoger entre el consume que ibas a  cocinar tu carne, o pescado, nosotros pedidos sopa de tomate, y una de vegetales, y para los contornos, pedimos, pescado, carne, bambú, hongos y fideos, pero los fideos te hacían una maniobra en la mesa para terminar de prepararlo porque eran frescos, como éramos novatos, una chica del restaurante ayudó a prepara la comida, ella la sacaba cuando ya estaba listo y nos ![L:sopa-china][3] la ponía en los platos, todo esto sin decir una sola palabra porque la china no hablaba nada de ingles, jejejeje, pero no fue malo, sobre todo porque nos ayudaban a preparar la comida, lo que si le podemos decir que esa comida estaba demasiado buena, sobre todo él consume final cuando te cocinaban los fideos con cualquiera de  las bases que pediste, nosotros pedimos que colocaran los fideos en la base de tomate, esa base estaba demasiada buena, tanto que quedamos a reventar, así que dijimos que teníamos que volver antes de irnos, para esta segunda vez nos pasara lo mismo y poder disfrutar de la comida, en la segunda ocasión fue en semana también para el almuerzo y no estaba lleno, así que pasamos de una vez y pedimos la misma base de sopa y los mismos ingredientes para la sopa, pero esta vez no tomábamos tanta sopa al principio, solo sacábamos las carnes nos la comíamos y al final con los fideos fue que tomamos como 3 o 4 tacitas de sopa con los fideos, pero estaba tan buena esa sopa que creo que volvimos a comer demasiado, así que eso de volver fue una excusa que nos inventamos para volver, jijijiji.
-![R: arepa-china][4]Para ir a donde nos estábamos quedando teníamos que bajar unas escaleras para cruzar la calle por debajo, eso era como una especie de mini mercado, con tiendas de ropa, zapato y comida, en unos de esos puestos de comida vendían algo muy parecido a la arepa, tanto fue la curiosidad y las ganas de comer arepa que Ely, se compró una para probarla, la arepa era de harina de trigo y estaba rellena de cochino mechado con picante, estaba muy buena la arepa, tanto que luego volvimos a comprar una para cada uno, en otra ocasión fuimos a otro restaurante donde nos prepararon un pescado demasiado bueno, pero salio un poco caro, porque el precio del pescado era por kilo y nosotros pensamos que el precio que decía era el precio total del plato, y nuestro pescado peso un kilo y medio, era bastante. todo lo que probamos acá estuvo realmente bueno hasta los Mac Flurry de té verde de Mac Donald, que nos comimos unos cuantos.
+Los chinos consideran esta una muy buena ciudad para vivir, es tranquila y aún no tiene metro, pero se espera que para 
+finales de este año esté en funcionamiento la primera línea. Aún sin metro el servicio de transporte público es bastante 
+bueno y muy económico, así que para nosotros no fue ningún problema tomar el trasporte público. Usamos como siempre 
+Google Maps ![L:cevezas-chinas][1] para que nos dijera cuál era el número de autobús y en cuantas paradas nos debíamos 
+quedar según el sitio que queríamos visitar, algo que es imprescindible en China donde (al menos que sepas mandarín)
+es casi imposible leer los nombres de las paradas, o entender el idioma hablado.
+
+Qingdao es la cede de la cervecería más grande de China, la cual hace la cerveza "Tsingtao" homónima de la ciudad en otra
+transliteración. La tradición cervezera de la ciudad se remonta a los tiempos de la ocupación alemana de la misma, y caló 
+tanto la cultura cervezera que en muchas partes de la ciudad todavía se puede comprar la cerveza fresca sin pasteurizar
+proveniente de la fábrica, incluso hay sitios que te la venden en bolsas. Todo esto lo aprovechó Ely y probó de todos los 
+tipos de cerveza que veía.
+
+La fabrica de cerveza tiene un museo donde te explican la historia y el proceso de elaboración. Este museo tenía dos 
+tipos de entrada;![R: un-par-cervezas][2] una que te permitía entrar al museo y otra hacer el tour y al final tomar 
+toda la cerveza que quisieras por 1 hora, nosotros escogimos la entrada con las hora de cerveza, así que al terminar 
+el tour nos caímos a cervezas y rellenamos nuestras jarras hasta el último minuto, jajajaja. Yo no recuerdo cuantas 
+tome, lo que si recuerdo es que cuando salimos nos reíamos de todo, hasta de los Chinos que nos ofrecían entrar a los 
+restaurantes para comer.
+
+Acá también aprovechamos para probar algunos platos típicos como el Hot-Pot, que es una sopa que preparas tu mismo
+en tu propia mesas eligiendo desde el caldo base hasta los ingredientes que quieres añadirle. El restaurante donde 
+fuimos, uno de las cadenas más famosas de China (Haidilao), tenía varios tipos de bases de caldo: a base de hongos,
+tomate o de res. Conseguimos este restaurante en Tripadvisor, está rankeado como uno de los mejores en esa ciudad y 
+lo mejor de todos es que estaba muy cerca de donde nos quedamos. Decididos ir un sábado como para la hora del almuerzo, 
+cuando llegamos éramos el número 300 y ya iban por el 180, lo bueno era que ellos tenían unas mesas afuera y te daban 
+una jarra con un refresco chino y cosas para picar, como tomates cherry, pepino y maní, mientras esperabas que tocara 
+tu turno para entrar. Cuando nos dieron la mesa teníamos que escoger el consomé en el que ibas a cocinar tu carne o 
+pescado, nosotros pedidos sopa de tomate, y una de vegetales, y para los contornos, pedimos, pescado, carne, bambú, hongos 
+y fideos. Lo interesante de los fideos es que te hacían una maniobra en la mesa para terminar de prepararlos porque eran 
+frescos. Como éramos novatos una chica del restaurante ayudó a preparar la comida, ella la sacaba cuando ya estaba listo 
+y nos ![L:sopa-china][3] la ponía en los platos, todo esto sin decir una sola palabra porque la china no hablaba nada de 
+inglés, jejejeje, pero no fue malo, sobre todo porque nos ayudaban a preparar la comida. Lo que si les podemos decir es 
+que esa comida estaba demasiado buena, sobre todo el consomé final cuando te cocinaban los fideos con cualquiera de las
+bases que pedistes, donde ya se habían concentrado los sabores. Nosotros pedimos que colocaran los fideos en la base de 
+tomate, esa base estaba demasiada buena, tanto que quedamos a reventar, así que dijimos que teníamos que volver antes 
+de irnos, para que esa segunda vez no nos pasara lo mismo (quedar tan llenos) y poder disfrutar mejor de la comida. 
+
+La segunda ocasión fue entre semana también para el almuerzo y esta véz el restaurante no estaba tan lleno, así que 
+pasamos de una vez y pedimos la misma base de sopa y mas o menos los mismos ingredientes para la sopa, pero esta vez 
+no tomábamos tanta sopa al principio, sólo sacábamos las carnes nos la comíamos y al final con los fideos fue que tomamos 
+cómo 3 o 4 tacitas de sopa, pero estaba tan buena esa sopa que creo que volvimos a comer demasiado, así que eso de no 
+quedar tan llenos y disfrutar más fue una excusa que nos inventamos para volver, jijijiji.
+
+![R: arepa-china][4]Otra de las curiosidades gastronómicas que conseguimos fue un descubrimiento casual. Para ir a donde 
+nos estábamos quedando teníamos que bajar unas escaleras para cruzar la calle por un pasadizo subterraneo. Eso era como 
+una especie de mini mercado, con tiendas de ropa, zapato y comida. En unos de esos puestos de comida vendían algo que se
+veía muy parecido a nuestra tradicional arepa. Por ahí pasamos varias veces, y tanto fue la curiosidad y las ganas de comer 
+arepa que Ely se compró una para probarla. La arepa era de harina de trigo y estaba rellena de cochino mechado con picante,
+estaba muy buena esta arepa china, tanto que luego volvimos a comprar una para cada uno.
+
+En otra ocasión fuimos a otro restaurante donde nos prepararon un pescado demasiado bueno, pero salió un poco caro, porque 
+el precio del pescado era por kilo y nosotros pensamos que el precio que decía era el precio total del plato (ponían el 
+precio de cada 100gr), y nuestro pescado peso un kilo y medio, era bastante. Todo lo que probamos acá estuvo realmente bueno 
+hasta los Mc Flurry de té verde de Mc Donald's, que nos comimos unos cuantos.
 
 
 ##Beijing 
-![L:tren-china][5]Para llegar a Beijing, decidimos tomar un tren desde Qingdao, pero en primera clase, según en muchos sitios que leímos decía que la segunda clase eran incomodos los asientos, y que si podías pagar este ticket de tren pues valía mucho la pena para que estuvieras comodo, así que nosotros decidimos viajar en esta clase, y aprovechar y trabajar un rato porque el tren se demoró 4 horas en llegar a Beijing, nos quedamos en ambos sitios de china con AirBnB, y como llegamos para la hora de la cena y nos quedamos cerca de centro comerciales y la calle había unos cuantos restaurantes locales, decidimos comer siempre por ahí en esos locales, y toda la comida estuvo buena, lo malo es que estaba en chino y siempre hacíamos señas de lo que queríamos, esta vez Ely instalo una aplicación ![R:comida-china-1][6] que nos traducía el menú para decidir si comíamos caer, pollo o cerdo, pero el primer día El plato de Ely estuvo rico, era arroz blanco con cochino salteado con vegetales, tratamos de pedirlo la veces siguientes, pero nunca dimos con el plato de ese día, pero todos los demás platos estuvieron buenos. Esta ya era nuestra segunda visita a Beijing , la primera fue a finales del 2009, y fue mi primer contacto con el invierno, pero para el tiempo que estamos volviendo que es mayo, ya el frío no era tan fuerte y hubo días que hizo un poco de calor, decidimos volver a ir a la gran Muralla China ya habíamos ido, pero la primera vez ![L:cumple-Ely][7]tomamos un tour con puros chinos que nos llevaban hasta el sitio donde se tomaba el teleférico para subir hasta el pico, esta vez no lo hicimos así, y tomamos el autobús publico que nos dejaba en la parte de abajo y teníamos que recorrer las 16 torres a pie, el día fue perfecto,
- hizo sol pero no tan fuerte y pudimos caminar todas las 16 torres sin ningún problema, estuvimos casi toda la mañana y pedazo de la tarde,![R:cumple-Ely2][8] decidimos llevarnos algo para comer mientras estábamos allí arriba y nos compramos unos sándwich en Subway, bajamos y nos fuimos al lugar donde nos estábamos quedando para luego ir a comer pato, para celebrar el cumpleaños de Ely, así cerramos con broche de oro la visita a China y el cumpleaños de Ely, ya al otro día partíamos para la India.
+![L:tren-china][5]Para llegar a Beijing, decidimos tomar un tren desde Qingdao, pero en primera clase, porque según en muchos sitios 
+que leímos decía que la segunda clase eran incomodos los asientos, y que si podías pagar este ticket de tren pues valía mucho la 
+pena para que estuvieras comodo. Así que como era nuestro único viaje en tren en China, y el ticket en 1ra clase seguía siendo
+ligeramente más económico que volar, decidimos viajar en 1ra clase, y aprovechar y trabajar un rato porque el tren se 
+demoró 4 horas en llegar a Beijing. Como llegamos para la hora de la cena y nos quedamos cerca de centros comerciales (tanto en Quingdao
+como en Beijing nos quedamos en sitios que conseguimos con AirBnB) y en la calle había unos cuantos restaurantes locales, decidimos 
+comer siempre por ahí en esos locales que eran muy económicos y en la noche estaban full de locales comiendo y bebiendo cervezas.
+Definitivamente no nos equivocamos, toda la comida estuvo buena, lo malo es que estaba en chino y siempre hacíamos señas de lo que queríamos. 
+Esta vez Ely instaló una aplicación ![R:comida-china-1][6] que nos traducía el menú para decidir si comíamos carne, pollo o cerdo. 
+El primer día el plato de Ely estuvo rico, era arroz blanco con cochino salteado con vegetales, tratamos de pedirlo las veces siguientes, 
+pero nunca dimos con el plato de ese día, igual todos los demás platos estuvieron buenos.
+
+Esta ya era nuestra segunda visita a Beijing, la primera fue a finales del 2009, y fue mi primer contacto con el invierno, pero para el 
+tiempo que estamos volviendo que fue en mayo, ya el frío no era tan fuerte y hubo días en que hizo un poco de calor. Entre las cosas
+que decidimos hacer estuvo volver a ir a la gran Muralla China en Badaling. Ya habíamos ido, pero la primera vez ![L:cumple-Ely][7]tomamos un tour 
+con puros chinos que nos llevaban hasta el sitio donde se tomaba el teleférico para subir hasta el pico, esta vez no lo hicimos así, y 
+tomamos el autobús público que nos dejaba en la parte de abajo y teníamos que recorrer las 16 torres a pie. El día fue perfecto,
+ hizo sol pero no tan fuerte y pudimos caminar todas las 16 torres sin ningún problema. Estuvimos casi toda la mañana y parte de la 
+ tarde.![R:cumple-Ely2][8] Apenas llegamos habíamos decidido llevarnos algo para comer mientras caminabamos y nos compramos unos sándwich 
+ en Subway, por lo que tuvimos nuestro picnic en la Gran Muralla. Después de caminar tanto regresamos al lugar donde nos estábamos para
+ descansar un rato y arreglarnos para salir en la noche a comer pato a la pekinesa y celebrar el cumpleaños de Ely. Así cerramos con 
+ broche de oro la visita a China y el cumpleaños de Ely, ya que al otro día partíamos para la India.
+
 China es un lugar muy lindo y nadie te molestará, lo que si es que tienes que estar dispuesto a que se te coleen 
-son unos expertos para eso, no había manera que nadie se nos coleara, pero tampoco era tan malo, así que no le parábamos mucho.
+son unos expertos para eso, no había manera de evitar que se nos colearan, pero tampoco era tan malo, así que no le parábamos mucho.
 
 [1]: /img/cervezas-chinas.jpg
 [2]: /img/unas-cuantas-cervezas.jpg
