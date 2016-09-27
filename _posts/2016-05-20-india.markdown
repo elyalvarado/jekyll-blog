@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "India: New Delhi, Agra,Joipur y  Jaipur"
+title:      "India: New Delhi, Agra, Jaipur y Jodhpur"
 subtitle:   "En el triangulo dorado de India"
 date:       "2016-05-20 09:00:00 +0700"
 author:     "Gabriela Niño"
